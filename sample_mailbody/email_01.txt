@@ -1,0 +1,19 @@
+From: osat.testdesk@example.com
+To: wafer.intelligence@example.com
+Subject: Wafer Probe Test Results - GN1834D
+
+Hello Team,
+
+Please find attached the wafer probe test results for product GN1834D.
+
+The production Lot ID is LOT-SI-2026-00891 and the Foundry Lot ID is FND_7892_XY.
+Testing was completed on 22-Nov-2026.
+
+The report contains wafer-level results. Please review the failed dies and confirm disposition.
+
+Regards,
+OSAT Test Desk
+
+Attachments:
+1. wafer_probe_results.xlsx
+2. test_summary.docx
