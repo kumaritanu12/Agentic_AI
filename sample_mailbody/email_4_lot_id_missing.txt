@@ -1,0 +1,17 @@
+Subject: Wafer Probe Results - Product GN1834D
+
+Hi Team,
+
+The wafer probe activity for product GN1834D is complete.
+
+Wafer reference: WFR_021
+Test execution: EXEC-2026-55018
+Status: FAILED
+
+Issue:
+Continuity test failures were observed on die positions 14 and 19.
+
+The lot identifier was not included in this notification. We will share the lot details after checking the material tracking system.
+
+Regards,
+OSAT Quality Team

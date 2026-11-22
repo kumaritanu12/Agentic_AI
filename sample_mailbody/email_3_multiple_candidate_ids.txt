@@ -1,0 +1,20 @@
+Subject: GN1818 - Wafer Probe Failure Report
+
+Hello,
+
+Please review the following test report.
+
+Product: GN1818
+Customer Lot ID: CUST-LOT-2026-114
+Foundry Lot Number: FND_26_05_B19
+Wafer ID: WAF-03
+Test Run ID: TR-998173
+Die Reference: DIE-0042
+
+Result: FAILED
+Failure description: High leakage current detected on several dies.
+
+Please use the customer lot ID and foundry lot number for traceability. The test run ID and die reference are included for investigation only.
+
+Regards,
+Probe Engineering

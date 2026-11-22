@@ -1,0 +1,13 @@
+Subject: Probe Completion Update | SPP Photonics
+
+Hi Team,
+
+The probe run for product GN1817 has been completed.
+
+For tracking, the material was received under foundry batch FNDLOT-A7K-4421, and our internal production lot reference is SI26MAY00478. Testing covered wafer WFR-07 and wafer WFR-08.
+
+Overall result: PASS
+Failed dies: 0
+
+Thanks,
+OSAT Operations

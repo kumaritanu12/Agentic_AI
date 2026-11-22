@@ -1,0 +1,17 @@
+Subject: Wafer Probe Test Results - GN1834D
+
+Hello Semtech Team,
+
+Please find the wafer probe test summary below.
+
+Product Family: GN1834D
+Lot ID: LOT-SI-2026-00891
+Foundry Lot ID: FND_7892_XY
+Wafer ID: WFR_001
+Test Status: FAILED
+
+Failure Details:
+Die number 12 failed during electrical testing.
+
+Regards,
+OSAT Testing Team
